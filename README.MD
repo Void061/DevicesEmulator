@@ -25,3 +25,6 @@ By default the TARGET_URL is https://www.deviceinfo.me/ that detect your current
 
 # Important
 The emulator, render by the default rendering engine, example for Safari, webkit, so the visualization may not be exactly the real one in new devices
+
+# Credits
+👩‍💻 [Ivan Liberato](https://github.com/Void061/)
